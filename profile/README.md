@@ -5,7 +5,7 @@ Deep Disease Detection is a Decision making tool for medical laboratories
 Please contact one of the organization members to know more about this section
 - [Laura](https://github.com/laudesire)
 - [Walid](https://github.com/walid213)
-- [Youcef](https://github.com/youssyml)
+- [Youssef](https://github.com/youssyml)
 - [Sabrina](https://github.com/sdacelo)
 
 # 👩‍💻 Useful resources 
