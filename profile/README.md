@@ -27,4 +27,5 @@ Please contact one of the organization members if you want to contribute or if y
 
 # 👩‍💻 Useful resources
 - [Scientific paper](https://www.sciencedirect.com/science/article/pii/S0169260721003928?via%3Dihub#bib0024)
-- [Scientific paper code](https://data.mendeley.com/datasets/kxsvzhcfgs)
+- [Paper code](https://data.mendeley.com/datasets/kxsvzhcfgs)
+- [Paper dataset](https://data.mendeley.com/datasets/kxsvzhcfgs/2)
