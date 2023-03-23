@@ -4,7 +4,6 @@ Deep Disease Detection is a decision making tool for medical laboratories. It le
 
 The project was started in a data science bootcamp and is still work in progress. It is based on the work of Damian J. Matuszewski and Ida-Maria Sintorn, TEM virus images: Benchmark dataset and deep learning classification.
 
-&nbsp;
 
 # ⚙️ Code and Repositories
 
@@ -16,7 +15,6 @@ The project code is organized in several repositories:
 - <a href="https://github.com/deep-disease-detection/ddd-edge"> ddd-edge </a>: Edge code to send images from a computer and/or a microscope to the our Google Cloud Project using Pub/Sub
 
 
-&nbsp;
 
 
 # 🌈 Contribution guidelines
@@ -26,7 +24,6 @@ Please contact one of the organization members if you want to contribute or if y
 - [Youssef](https://github.com/youssyml)
 - [Sabrina](https://github.com/sdacelo)
 
-&nbsp;
 
 # 👩‍💻 Useful resources
 - [Scientific paper](https://www.sciencedirect.com/science/article/pii/S0169260721003928?via%3Dihub#bib0024)
